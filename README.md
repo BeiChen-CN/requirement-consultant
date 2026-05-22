@@ -70,6 +70,16 @@
   html-template-guide.md      # HTML 可视化参考指南
 ```
 
+## 快速开始
+方案一：导入到 Trae
+根据 Trae 官方技能说明，Skill 是一个包含 SKILL.md 的文件夹，可通过 Settings -> Rule & Skills -> Skills -> Create 导入。你可以直接下载或克隆本仓库，然后导入根目录中的 SKILL.md。
+
+方案二：放到本地 Skills 目录
+如果你使用兼容 SKILL.md 的技能目录约定，也可以把整个文件夹放到本地技能目录，例如：
+
+Windows Trae：%USERPROFILE%\.trae\skills\my-planning-skill
+Claude Code：~/.claude/skills/my-planning-skill
+
 ## 使用方式
 
 在claude code中调用：

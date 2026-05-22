@@ -77,8 +77,8 @@
 方案二：放到本地 Skills 目录
 如果你使用兼容 SKILL.md 的技能目录约定，也可以把整个文件夹放到本地技能目录，例如：
 
-Windows Trae：%USERPROFILE%\.trae\skills\my-planning-skill
-Claude Code：~/.claude/skills/my-planning-skill
+- Windows Trae：`%USERPROFILE%\.trae\skills\my-planning-skill`
+- Claude Code：`~/.claude/skills/my-planning-skill`
 
 ## 使用方式
 

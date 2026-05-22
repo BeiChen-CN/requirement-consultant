@@ -1,6 +1,6 @@
 # requirement-consultant
 
-Superpowers skill：将模糊的项目想法通过 5 阶段自适应引导转化为完整项目计划书。
+将模糊的项目想法通过 5 阶段自适应引导转化为完整项目计划书。
 
 ## 解决什么问题
 

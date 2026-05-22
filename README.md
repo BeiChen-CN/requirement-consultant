@@ -72,7 +72,7 @@
 
 ## 使用方式
 
-在支持 Superpowers 技能框架的 AI 助手中直接调用：
+在claude code中调用：
 
 ```
 /requirement-consultant

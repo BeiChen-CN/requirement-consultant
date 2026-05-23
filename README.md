@@ -1,6 +1,6 @@
 # requirement-consultant
 
-Superpowers skill：将模糊的项目想法通过 5 阶段自适应引导转化为完整项目计划书。
+将模糊的项目想法通过 5 阶段自适应引导转化为完整项目计划书。
 
 ## 解决什么问题
 
@@ -149,7 +149,7 @@ UI 决策点（阶段 5）生成实际可预览的 HTML 原型文件：
 
 ## 使用方式
 
-在支持 Superpowers 技能框架的 AI 助手中直接调用：
+在claude code中直接调用：
 
 ```
 /requirement-consultant
